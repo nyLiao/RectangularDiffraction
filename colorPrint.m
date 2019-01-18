@@ -17,7 +17,7 @@ function [fig, img] = colorPrint(source, aperture, screen)
 %
 %       img: a dim*dim*3 array, as the add-up colored image in RGB format
 %
-%   by ChiGamma, 2018
+%   by nyLiao, 2018
 
 
 % handle omitted struct and fields of light source

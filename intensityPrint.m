@@ -11,7 +11,7 @@ function [fig, img] = intensityPrint(source, aperture, screen)
 %
 %       img: a dim*dim*1 array of number, the image of absolute intensity distribution
 %
-%   by ChiGamma, 2018
+%   by nyLiao, 2018
 
 
 % handle omitted struct and fields of light source

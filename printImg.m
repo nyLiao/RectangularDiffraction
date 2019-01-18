@@ -9,7 +9,7 @@ function fig = printImg(img, screen, str)
 %
 %       fig: the output figure object
 %
-%   by ChiGamma, 2018
+%   by nyLiao, 2018
 
 
 % display basic image

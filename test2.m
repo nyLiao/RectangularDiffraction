@@ -1,6 +1,6 @@
 % demo of examples used in readme
 %
-%   by ChiGamma, 2018
+%   by nyLiao, 2018
 
 
 %clc;

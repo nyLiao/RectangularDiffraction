@@ -22,7 +22,7 @@ function intensityImg = intensityDiff(source, aperture, screen)
 %
 %       intensityImg: a dim*dim*1 array of number, the image of absolute intensity distribution
 %
-%   by ChiGamma, 2018
+%   by nyLiao, 2018
 
 
 % initialize image

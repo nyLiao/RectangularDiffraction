@@ -2,7 +2,7 @@
 %
 %   NOTE that all units of length are meters
 %
-%   by ChiGamma, 2018
+%   by nyLiao, 2018
 
 
 %clc;
